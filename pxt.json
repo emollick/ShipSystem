@@ -1,0 +1,19 @@
+{
+    "name": "shipsystem",
+    "files": [
+        "manifest.json",
+        "package.json",
+        "readme.md",
+        "src/controllers/readme.md",
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "dependencies": {
+        "device": "*"
+    },
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
